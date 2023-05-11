@@ -1,5 +1,9 @@
 # Dicee 🎲
 
+An exercise for Flutter app states.
+
+<br />
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
 
